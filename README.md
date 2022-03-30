@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=byunjin11)]
-(https://solved.ac/byunjin11)
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=byunjin11)
+
